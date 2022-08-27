@@ -1,0 +1,7 @@
+.containerBuscador{
+    background: black;
+    color: white;
+    display: flex;
+    padding: 0.5em 4em;
+    justify-content: space-between;
+}
